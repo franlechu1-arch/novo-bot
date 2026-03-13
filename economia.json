@@ -1,0 +1,72 @@
+{
+    "388819771564490755": {
+        "inventario": [
+            {
+                "nome": "Armadura de Couro",
+                "tipo": "equipamento",
+                "slot": "armadura",
+                "defesa": 1,
+                "raridade": "Comum",
+                "ataque": 0
+            },
+            {
+                "nome": "Armadura de Couro",
+                "tipo": "armadura",
+                "defesa": 1,
+                "raridade": "Comum",
+                "ataque": 0
+            }
+        ],
+        "drops_unicos": [],
+        "equipado": {
+            "arma": {
+                "nome": "Espada Enferrujada",
+                "tipo": "equipamento",
+                "slot": "arma",
+                "ataque": 1,
+                "raridade": "Comum",
+                "defesa": 0
+            },
+            "armadura": {
+                "nome": "Armadura do Goblin Rei",
+                "tipo": "equipamento",
+                "slot": "armadura",
+                "defesa": "2",
+                "raridade": "Comum",
+                "ataque": 0
+            },
+            "acessorio": null,
+            "equipamento": {
+                "nome": "Lan\u00e7a do Goblin Rei",
+                "tipo": "equipamento",
+                "slot": "arma",
+                "ataque": 3,
+                "raridade": "Comum",
+                "defesa": 0
+            }
+        },
+        "saldo": 4541,
+        "xp": 248,
+        "nivel": 4,
+        "rank": "E",
+        "hp": 110,
+        "ataque": 21,
+        "defesa": 9
+    },
+    "1099081576157040792": {
+        "inventario": [],
+        "drops_unicos": [],
+        "equipado": {
+            "arma": null,
+            "armadura": null,
+            "acessorio": null
+        },
+        "saldo": 0,
+        "xp": 0,
+        "nivel": 1,
+        "rank": "E",
+        "hp": 100,
+        "ataque": 15,
+        "defesa": 6
+    }
+}
